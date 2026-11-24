@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="958" viewBox="0 0 960 958" role="img" aria-label="Pranita Ashok Ghebad: career timeline">
+<title>Pranita Ashok Ghebad: career timeline</title>
+<style>
+/* Elements start hidden and animate in, so reduced motion must jump to the end state. */
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+.fade { opacity: 0; animation: fade .8s ease-out .2s forwards; }
+.track { stroke-dasharray: 782; stroke-dashoffset: 782; animation: draw 3.05s ease-in-out .3s forwards; }
+.m { opacity: 0; animation: pop .5s ease-out forwards; }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes fade { to { opacity: 1; } }
+@keyframes pop { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; transform: none !important; }
+}
+</style>
+<text x="0" y="76" font-size="46" font-weight="800" fill="#1f2328">Pranita Ashok Ghebad</text>
+<text class="fade" x="0" y="112" font-size="19" fill="#59636e">Senior Automation Developer</text>
+<line class="track" x1="150" y1="168" x2="150" y2="950" stroke="#bf8700" stroke-width="3" stroke-linecap="round"/>
+<g class="m" style="animation-delay:0.40s">
+<text x="124" y="198" text-anchor="end" font-size="20" font-weight="800" fill="#bf8700">2025</text>
+<circle cx="150" cy="192" r="10" fill="#bf8700" stroke="#bf8700" stroke-width="3"/>
+<rect x="186" y="168" width="766" height="96" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="206" y="198" font-size="17" font-weight="700" fill="#1f2328">Lead Engineer</text>
+<text x="932" y="198" text-anchor="end" font-size="13" fill="#59636e">Present</text>
+<text x="206" y="222" font-size="15" font-weight="600" fill="#bf8700">CloudNuro</text>
+<text x="206" y="248" font-size="15" fill="#1f2328">Reduced manual monitoring effort by 40–60% with FinOps alerts in Python</text>
+</g>
+<g class="m" style="animation-delay:0.75s">
+<text x="124" y="316" text-anchor="end" font-size="20" font-weight="800" fill="#59636e">2025</text>
+<circle cx="150" cy="310" r="7" fill="#ffffff" stroke="#bf8700" stroke-width="3"/>
+<rect x="186" y="286" width="766" height="96" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="206" y="316" font-size="17" font-weight="700" fill="#1f2328">Engineering Manager Intern</text>
+<text x="932" y="316" text-anchor="end" font-size="13" fill="#59636e">Aug 2025</text>
+<text x="206" y="340" font-size="15" font-weight="600" fill="#bf8700">Holiday Channel</text>
+<text x="206" y="366" font-size="15" fill="#1f2328">Led 2 cross-functional teams in designing a marketplace platform with Agile delivery</text>
+</g>
+<g class="m" style="animation-delay:1.10s">
+<text x="124" y="434" text-anchor="end" font-size="20" font-weight="800" fill="#59636e">2025</text>
+<circle cx="150" cy="428" r="7" fill="#ffffff" stroke="#bf8700" stroke-width="3"/>
+<rect x="186" y="404" width="766" height="96" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="206" y="434" font-size="17" font-weight="700" fill="#1f2328">Student Assistant Intern</text>
+<text x="932" y="434" text-anchor="end" font-size="13" fill="#59636e">Jan 2025</text>
+<text x="206" y="458" font-size="15" font-weight="600" fill="#bf8700">Projects Clinic, University at Buffalo</text>
+<text x="206" y="484" font-size="15" fill="#1f2328">Cut manual effort by 60% with automated workflow for UB CLOE department</text>
+</g>
+<g class="m" style="animation-delay:1.45s">
+<text x="124" y="552" text-anchor="end" font-size="20" font-weight="800" fill="#59636e">2021</text>
+<circle cx="150" cy="546" r="7" fill="#ffffff" stroke="#bf8700" stroke-width="3"/>
+<rect x="186" y="522" width="766" height="96" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="206" y="552" font-size="17" font-weight="700" fill="#1f2328">IT Analyst</text>
+<text x="932" y="552" text-anchor="end" font-size="13" fill="#59636e">Aug 2021</text>
+<text x="206" y="576" font-size="15" font-weight="600" fill="#bf8700">Tata Consultancy Services</text>
+<text x="206" y="602" font-size="15" fill="#1f2328">Reduced manual processing time by ~35% with BPMN-based automation in Appian</text>
+</g>
+<g class="m" style="animation-delay:1.80s">
+<text x="124" y="670" text-anchor="end" font-size="20" font-weight="800" fill="#59636e">2019</text>
+<circle cx="150" cy="664" r="7" fill="#ffffff" stroke="#bf8700" stroke-width="3"/>
+<rect x="186" y="640" width="766" height="96" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="206" y="670" font-size="17" font-weight="700" fill="#1f2328">Application Developer</text>
+<text x="932" y="670" text-anchor="end" font-size="13" fill="#59636e">May 2019</text>
+<text x="206" y="694" font-size="15" font-weight="600" fill="#bf8700">Fujitsu Consulting India</text>
+<text x="206" y="720" font-size="15" fill="#1f2328">Led team of 5 delivering BPM applications; earned Best Practice Award</text>
+</g>
+<g class="m" style="animation-delay:2.15s">
+<text x="124" y="788" text-anchor="end" font-size="20" font-weight="800" fill="#59636e">2014</text>
+<circle cx="150" cy="782" r="7" fill="#ffffff" stroke="#bf8700" stroke-width="3"/>
+<rect x="186" y="758" width="766" height="96" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="206" y="788" font-size="17" font-weight="700" fill="#1f2328">Senior Software Engineer</text>
+<text x="932" y="788" text-anchor="end" font-size="13" fill="#59636e">Nov 2014</text>
+<text x="206" y="812" font-size="15" font-weight="600" fill="#bf8700">LTIMindtree</text>
+<text x="206" y="838" font-size="15" fill="#1f2328">Won multimillion-dollar project with Credit Note Application PoC and implementation</text>
+</g>
+<g class="m" style="animation-delay:2.50s">
+<text x="124" y="906" text-anchor="end" font-size="20" font-weight="800" fill="#59636e">2024</text>
+<circle cx="150" cy="900" r="7" fill="#ffffff" stroke="#bf8700" stroke-width="3"/>
+<rect x="186" y="876" width="766" height="74" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="206" y="906" font-size="17" font-weight="700" fill="#1f2328">Master of Science in Management Information Syst…</text>
+<text x="932" y="906" text-anchor="end" font-size="13" fill="#59636e">Graduated 2024</text>
+<text x="206" y="930" font-size="15" font-weight="600" fill="#bf8700">University at Buffalo, The State University of New York</text>
+
+</g>
+</svg>
