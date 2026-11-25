@@ -27,6 +27,16 @@ I built a feature in Python and Firebase that detects anomalies and usage thresh
 
 </details>
 
+## Process automation projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [claimsflow](https://github.com/PranitaG14/claimsflow) | Conformance checking on motor-claims event logs: aligns 50,000 claims against the designed process and costs each rework loop (**GBP 4.5M/yr** total) | Python, process mining |
+| [p2pexceptions](https://github.com/PranitaG14/p2pexceptions) | Assigns every failed three-way match exactly one cause and ranks causes by cost; **99.6%** agreement with a labelled sample | Python |
+| [permitflow](https://github.com/PranitaG14/permitflow) | Permit workflow whose statechart compiles into database triggers, so all **95** illegal transitions are rejected even from raw SQL | TypeScript, SQL |
+| [fieldextract](https://github.com/PranitaG14/fieldextract) | Document field extraction with calibrated per-field confidence and cost-optimal routing to human review | Python |
+| [replayagent](https://github.com/PranitaG14/replayagent) | Temporal-style durable execution for LLM agents: crashed workflows resume from an event-sourced history without repeating work | Python, SQLite |
+
 ## Credentials
 
 - **Master of Science**, Management Information Systems (STEM), University at Buffalo, The State University of New York – *July 2024 – May 2025* – GPA **3.9/4.00**
@@ -43,6 +53,11 @@ I built a feature in Python and Firebase that detects anomalies and usage thresh
 
 ## Projects
 
+- [claimsflow](https://github.com/PranitaG14/claimsflow) — Conformance checking on synthetic motor-claims event logs that counts known rework loops and costs each one in days and money.
+- [p2pexceptions](https://github.com/PranitaG14/p2pexceptions) — Invoice exception analysis that assigns every failed three-way match exactly one cause, validates it against labelled cases, and ranks causes by cost.
+- [permitflow](https://github.com/PranitaG14/permitflow) — A municipal permit workflow where illegal state transitions are rejected by the database, not by a service layer.
+- [fieldextract](https://github.com/PranitaG14/fieldextract) — Document field extraction with per-field calibrated confidence, routed to human review at a cost-optimal threshold.
+- [replayagent](https://github.com/PranitaG14/replayagent) — A single-node durable execution runtime for LLM agents, in the style of Temporal.
 - [pickpath](https://github.com/PranitaG14/pickpath) — An offline-first warehouse picking PWA where reconnect conflicts become supervisor exception tasks instead of silently overwritten picks.
 - [pipeline-guard](https://github.com/PranitaG14/pipeline-guard) — A reusable GitHub Action plus CLI that gates PRs on container-image vulnerabilities and IaC misconfigurations, with a risk score, annotated PR comments, and…
 - [provenance-gate](https://github.com/PranitaG14/provenance-gate) — A SLSA provenance verifier that checks attestations against policy, then rebuilds the artifact and diffs it to prove the binary came from the reviewed source.
